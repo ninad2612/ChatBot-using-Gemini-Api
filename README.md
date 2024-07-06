@@ -1,5 +1,4 @@
 # ChatBot-using-Gemini-Api
-============================
 
 This Streamlit application integrates a chatbot powered by Gemini-1.5-flash from Google's Generative AI API. The chatbot is designed to assist users with telehealth inquiries.
 
@@ -16,7 +15,7 @@ How to Run
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/ninad2612/ChatBot-using-Gemini-Api.git
    cd <repository-directory>
    
 2.Install dependencies:
