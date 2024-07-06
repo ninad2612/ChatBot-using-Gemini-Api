@@ -1,5 +1,8 @@
 # ChatBot-using-Gemini-Api
 
+![image](https://github.com/ninad2612/ChatBot-using-Gemini-Api/assets/167805209/84d0f68e-e9b3-46fb-9b9d-db80a103be69)
+
+
 This Streamlit application integrates a chatbot powered by Gemini-1.5-flash from Google's Generative AI API. The chatbot is designed to assist users with telehealth inquiries.
 
 Prerequisites
