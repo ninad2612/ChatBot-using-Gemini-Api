@@ -1,6 +1,4 @@
 # ChatBot-using-Gemini-Api
-
-Tele Health with GeminiChat
 ============================
 
 This Streamlit application integrates a chatbot powered by Gemini-1.5-flash from Google's Generative AI API. The chatbot is designed to assist users with telehealth inquiries.
